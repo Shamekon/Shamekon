@@ -4,6 +4,9 @@
 - 🌱 I’m currently learning C++ and programming at all
 
 - ⚡ Fun fact: It's my first repository
+
+-  ![image](https://github.com/user-attachments/assets/f0bc6670-b8e5-42a6-b05f-cfe0426af149)
+
 <!--
 **Shamekon/Shamekon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
