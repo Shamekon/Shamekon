@@ -1,7 +1,9 @@
 ## Hi there 👋
-🔭 I’m currently working on something cool ...
-🌱 I’m currently learning C++ and programming at all ...
-⚡ Fun fact: It's my first repository ...
+- 🔭 I’m currently working on something cool
+
+- 🌱 I’m currently learning C++ and programming at all
+
+- ⚡ Fun fact: It's my first repository
 <!--
 **Shamekon/Shamekon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
